@@ -13,8 +13,7 @@ title                    : "华为诺亚方舟实验室-AI4EDA团队"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://https://noahai4l2o.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,8 +26,8 @@ author:
   name             : "华为诺亚方舟实验室-AI4EDA团队"
   pronouns         : # example: "she/her"  
   bio              : "电子设计自动化（electronic design automation, EDA）是指利用计算机辅助设计（CAD）软件，来完成超大规模集成电路（VLSI）芯片的功能设计、综合、验证、物理设计（包括布局、布线、版图、设计规则检查等）等流程的设计方式。诺亚方舟实验室是华为公司负责AI算法的研究部门，EDA算法项目组紧跟基于AI的决策推理研究，解决当前EDA里空间探索、组合优化、图计算等相关问题。同时探索与应用数据驱动（Data-driven）的算法，构建核心技术竞争力。"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "中国"
+  employer         : "华为技术有限公司"
   uri              : # URL
   email            : "noahai4opt@huawei.com" 
 
