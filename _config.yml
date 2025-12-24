@@ -27,10 +27,10 @@ author:
   name             : "Hawei Noah Ark AI4EDA Team"
   pronouns         : # example: "she/her"  
   bio              : "华为诺亚方舟实验室AI4EDA团队"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "中国"
+  employer         : "华为技术有限公司"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "noahai4opt@huawei.com" 
 
   # Academic websites
   academia         : # URL
