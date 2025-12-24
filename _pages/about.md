@@ -14,35 +14,31 @@ redirect_from:
 工作地点：上海、深圳、北京、香港、
 招聘全职/研究员实习生，有AI/EDA顶会论文或者大型开源项目经历者优先
 
-Getting started
+奖项
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2025-总裁团队奖, 华为.
+2025-半导体攻关战略奖, 华为.
+2025-技术合作与人才生态优秀协同奖, 华为.
+2025-北研火花闪耀奖, 华为.
+2025-Best Paper Award, DATE
+2022-金牌团队, 华为.
+2022-公司年度工作会议奖-创新与技术突破奖
+2021-总裁团队奖, 华为.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+新闻
+======
+2025年12月，华为-南大人工智能联合实验室workshop研讨
+2025年11月，4篇论文被DATE'2026接收
+2025年9月，大模型时代的学习优化-从算法革新到千行百业workshop研讨
+2025年8月，1篇论文被DAC’2025接收，1篇论文被KDD’2025接收
+2025年6月，首个物理设计评估Open3DBench及黑盒优化评估BBO-Bench开源
+2024年11月，1篇论文被DATE'2025接收（Best Paper Award）
+2024年8月，1篇论文被KDD’2024接收
+2024年7月， 2篇论文被ICCAD'2024接收，1篇论文被Neurips’2024接收
+2024年5月， 主题演讲“Cross-Die Optimization for Logic-on-Memory Face-to-Face Bonding 3-D IC Designs”在ISEDA'24上发表
+2024年1月，1篇论文被ICML2024接收
+2023年8月， LLM在EDA领域的应用研讨
+2023年7月， 6篇论文被ICCAD'2023接收
+2023年5月， IWLS'2023 best student paper
+2023年5月， 3篇论文被IWLS'2023接收
+2023年5月， 主题演讲“Rethink Logic Synthesis from an Industry Perspective”在ISEDA'23上发表
